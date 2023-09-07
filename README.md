@@ -1,11 +1,12 @@
-Random Password Generator
+# Random Password Generator
 This is a simple C++ program that generates random passwords based on a set of specified criteria. The program creates 20 unique passwords with the following characteristics:
 
 Length between 10 and 16 characters.
 At least one uppercase letter.
 At least one lowercase letter.
 At least one digit.
-How it Works
+
+# How it Works
 The program uses the C++ standard library to achieve its goal. Here's an overview of how it works:
 
 Character Set: The characters that can be used in the generated passwords are defined in the characters string.
